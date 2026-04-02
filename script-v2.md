@@ -113,7 +113,9 @@ And particles appeared.
 
 *"Time in this framework is not a clock. It is rewrite depth — the sheer count of local transformations the graph undergoes. Every tick of time is one rewrite."*
 
-*"The global order parameter governing dimensional stability is called Omega. It tracks how consistently the graph closes on itself at every scale."*
+*"Ω is a global structural order parameter that measures how strongly the network closes on itself through local clustering patterns."*
+
+*"It does not drive the dynamics — it emerges from them — and serves as a diagnostic of large-scale structural organization."*
 
 *"In the first video, I showed you two manually-injected topological defects — hand-placed disturbances in the fabric of the graph. I showed you how they cluster, persist, and interact."*
 
